@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm ChowdhuryGiti</h1>
-<h3 align="center"> A computer engineering graduate who enjoys real world problem solving with Python. Trying to become a Machine Learning Engineer.</h3>
+<h3 align="center"> Passionate MERN stack developer with a flair for crafting robust and scalable web applications. Proficient in MongoDB, Express.js, React, and Node.js.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chowdhurygiti&label=Profile%20views&color=0e75b6&style=flat" alt="chowdhurygiti" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chowdhury_giti" target="blank"><img src="https://img.shields.io/twitter/follow/chowdhury_giti?logo=twitter&style=for-the-badge" alt="chowdhury_giti" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Structure, Algorithm**
+- 🌱 I’m currently learning **Data Structure, Algorithm**
 
-- 💬 Ask me about **Python, OOP**
+- 💬 Ask me about **OOP, React**
 
 - 📫 How to reach me **chowdhurygiti@gmail.com**
 
